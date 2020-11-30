@@ -23,7 +23,7 @@
   1. <details>
        <summary>Linear Algebra</summary>
         
-       1. Introduction المقدمة
+       1. [Introduction المقدمة](contents/01.Mathematics-For-Machine-Learning/01-01.Linear-Algebra/01-01-01.Introduction.md)
        2. Systems of Linear Equations
        3. Matrices
           1. Matrix Addition and Multiplication
@@ -68,7 +68,7 @@
           3.   Projection onto General Subspaces
           4.   Gram-Schmidt Orthogonalization
           5.   Projection onto Afﬁne Subspaces
-        10. Rotations
+        1.  Rotations
             1.  About
             2.  Rotations in R2
             3.  Rotations in R3
