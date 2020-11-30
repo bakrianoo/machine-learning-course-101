@@ -19,9 +19,7 @@
  <details>
   <summary>Mathematics For Machine Learning</summary>
 
-  0. <details>
-       <summary>How to read كيف تقرأ هذا الفصل</summary>
-     </details>  
+  0. How to read كيف تقرأ هذا الفصل
   1. <details>
        <summary>Linear Algebra</summary>
         
